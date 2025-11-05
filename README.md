@@ -1,8 +1,8 @@
-# 🌤️ WeatherWise - Your Personal Weather Companion
+# 🌤️ Chauhan Weather - Your Personal Weather Companion
 
-A sleek, modern, and insightful weather application built with HTML, CSS, and JavaScript. WeatherWise provides comprehensive weather information with a beautiful, context-aware interface that adapts to current weather conditions.
+A sleek, modern, and insightful weather application built with HTML, CSS, and JavaScript. Chauhan Weather provides comprehensive weather information with a beautiful, context-aware interface that adapts to current weather conditions.
 
-![WeatherWise Preview](https://via.placeholder.com/1200x600/4A90E2/FFFFFF?text=WeatherWise+Weather+App)
+![Chauhan Weather Preview](https://via.placeholder.com/1200x600/4A90E2/FFFFFF?text=Chauhan+Weather+App)
 
 ## ✨ Features
 
